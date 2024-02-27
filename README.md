@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Pabelic1221/Pabelic1221/issues)**
 
-🎮 Games I play **Counter-Strike, Overwatch and Valorant**
+🎮 Video Games I play **Counter-Strike, Overwatch and Valorant**
 
  </div>
  
