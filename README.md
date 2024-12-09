@@ -1,8 +1,6 @@
 ### A Junior Full stack Developer<br>
-<br>🌱 I’m currently learning React-Native, Flutter, and etc.<br>
-<br>🎮 Video Games I play Counter-Strike, Overwatch and Valorant <br><br>
 
-### "Just because something WORKS doesn't mean that it can't be IMPROVE"
+"Just because something WORKS doesn't mean that it can't be IMPROVE"
 <br>
 
 
