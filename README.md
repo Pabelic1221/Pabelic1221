@@ -1,4 +1,4 @@
-### A Junior Full stack Developer<br>
+### A Junior Full stack Developers<br>
 
 "Just because something WORKS doesn't mean that it can't be IMPROVE"
 <br>
