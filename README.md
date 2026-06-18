@@ -36,12 +36,15 @@ $ git log --oneline --my-week
 
 <div align="center">
 
-### `~/stack`
+### `~/stack --frontend`
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **JavaScript** | **TypeScript** | **React** | **Node.js** |
-| **PHP** | **MySQL** | **Firebase** | **Raspberry Pi** |
+<img src="https://skillicons.dev/icons?i=js,py,cpp,react,angular,flutter&theme=dark" />
+
+### `~/stack --backend`
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,postgres,mysql,mongodb,firebase,supabase&theme=dark" />
+
+<sub>React Native rides on the React icon above · Laragon's the quiet one running in the background</sub>
 
 </div>
 
