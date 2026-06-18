@@ -38,7 +38,7 @@ $ git log --oneline --my-week
 
 ### `~/stack --frontend`
 
-<img src="https://skillicons.dev/icons?i=js,py,cpp,react,angular,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,py,cpp,react,nextjs,vue,angular,flutter&theme=dark" />
 
 ### `~/stack --backend`
 
