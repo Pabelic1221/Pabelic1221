@@ -1,0 +1,107 @@
+<svg viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
+  <defs>
+    <clipPath id="winclip">
+      <rect x="0" y="0" width="900" height="760" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#winclip)">
+    <!-- window background -->
+    <rect x="0" y="0" width="900" height="760" fill="#282c34"/>
+
+    <!-- title bar -->
+    <rect x="0" y="0" width="900" height="32" fill="#21252b"/>
+    <circle cx="20" cy="16" r="6" fill="#e06c75"/>
+    <circle cx="40" cy="16" r="6" fill="#e5c07b"/>
+    <circle cx="60" cy="16" r="6" fill="#98c379"/>
+    <text x="450" y="20" fill="#9da5b4" font-size="12" text-anchor="middle">jushua@cagayan-de-oro — Pabelic1221 — README.md</text>
+
+    <!-- sidebar (full height) -->
+    <rect x="0" y="32" width="190" height="728" fill="#21252b"/>
+    <text x="14" y="54" fill="#9da5b4" font-size="11" letter-spacing="1">EXPLORER</text>
+
+    <text x="14" y="82" fill="#abb2bf" font-size="11" letter-spacing="1">OPEN EDITORS</text>
+    <text x="28" y="100" fill="#e5c07b" font-size="11">● bio.js</text>
+    <text x="28" y="118" fill="#9da5b4" font-size="11">○ socials.txt</text>
+
+    <text x="14" y="148" fill="#abb2bf" font-size="11" letter-spacing="1">PABELIC1221</text>
+    <text x="28" y="168" fill="#61afef" font-size="11">▾ .github</text>
+    <text x="42" y="186" fill="#9da5b4" font-size="11">workflows</text>
+    <text x="28" y="204" fill="#61afef" font-size="11">▾ assets</text>
+    <text x="42" y="222" fill="#9da5b4" font-size="11">vscode-hero.svg</text>
+    <text x="28" y="240" fill="#e5c07b" font-size="11">● bio.js</text>
+    <text x="28" y="258" fill="#9da5b4" font-size="11">○ stack.json</text>
+    <text x="28" y="276" fill="#9da5b4" font-size="11">○ metrics.yml</text>
+    <text x="28" y="294" fill="#9da5b4" font-size="11">○ socials.txt</text>
+    <text x="28" y="312" fill="#98c379" font-size="11">○ README.md</text>
+
+    <!-- tab bar -->
+    <rect x="190" y="32" width="710" height="30" fill="#282c34"/>
+    <rect x="190" y="32" width="92" height="30" fill="#1e2227"/>
+    <circle cx="206" cy="47" r="4" fill="#e5c07b"/>
+    <text x="218" y="51" fill="#d7dae0" font-size="11">bio.js</text>
+    <line x1="282" y1="32" x2="282" y2="62" stroke="#181a1f" stroke-width="1"/>
+    <text x="296" y="51" fill="#6b7280" font-size="11">socials.txt</text>
+    <line x1="0" y1="62" x2="710" y2="62" stroke="#181a1f" stroke-width="1" transform="translate(190,0)"/>
+
+    <!-- editor body -->
+    <rect x="190" y="62" width="710" height="666" fill="#282c34"/>
+    <rect x="190" y="62" width="34" height="666" fill="#282c34"/>
+
+    <!-- ===== SECTION 1: bio.js ===== -->
+    <g font-size="11" fill="#5c6370" text-anchor="end">
+      <text x="216" y="92">1</text><text x="216" y="112">2</text><text x="216" y="132">3</text>
+      <text x="216" y="152">4</text><text x="216" y="172">5</text><text x="216" y="192">6</text>
+      <text x="216" y="212">7</text><text x="216" y="232">8</text><text x="216" y="252">9</text>
+      <text x="216" y="272">10</text><text x="216" y="292">11</text>
+    </g>
+    <g font-size="13">
+      <text x="234" y="92" fill="#5c6370">// bio.js</text>
+      <text x="234" y="112"><tspan fill="#c678dd">const</tspan><tspan fill="#abb2bf"> jushua = {</tspan></text>
+      <text x="254" y="132"><tspan fill="#e06c75">name</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#98c379">"Jushua Pabelic"</tspan><tspan fill="#abb2bf">,</tspan></text>
+      <text x="254" y="152"><tspan fill="#e06c75">role</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#98c379">"Junior Full Stack Developer"</tspan><tspan fill="#abb2bf">,</tspan></text>
+      <text x="254" y="172"><tspan fill="#e06c75">location</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#98c379">"Cagayan de Oro, PH"</tspan><tspan fill="#abb2bf">,</tspan></text>
+      <text x="254" y="192"><tspan fill="#e06c75">philosophy</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#98c379">"Just because something WORKS"</tspan></text>
+      <text x="254" y="212"><tspan fill="#98c379">+ "doesn't mean it can't be IMPROVED."</tspan><tspan fill="#abb2bf">,</tspan></text>
+      <text x="254" y="232"><tspan fill="#e06c75">status</tspan><tspan fill="#abb2bf">: () =&gt; {</tspan></text>
+      <text x="270" y="252"><tspan fill="#c678dd">return</tspan><tspan fill="#98c379"> "staring at code from 3 months ago"</tspan></text>
+      <text x="254" y="272" fill="#abb2bf">},</text>
+      <text x="234" y="292" fill="#abb2bf">};</text>
+    </g>
+
+    <text x="234" y="322" fill="#5c6370" font-size="13">// currently exploring</text>
+    <text x="234" y="342" font-size="13"><tspan fill="#61afef">jushua</tspan><tspan fill="#abb2bf">.learning = [</tspan><tspan fill="#98c379">"Next.js"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"Vue"</tspan><tspan fill="#abb2bf">];</tspan></text>
+
+    <line x1="190" y1="374" x2="900" y2="374" stroke="#21252b" stroke-width="2"/>
+
+    <!-- ===== SECTION 2: socials.txt ===== -->
+    <g font-size="11" fill="#5c6370" text-anchor="end">
+      <text x="216" y="406">12</text>
+    </g>
+    <text x="234" y="406" fill="#5c6370" font-size="13">// socials.txt</text>
+    <text x="234" y="430" font-size="13"><tspan fill="#61afef">$</tspan><tspan fill="#abb2bf"> cat socials.txt</tspan></text>
+
+    <text x="234" y="460" font-size="13"><tspan fill="#98c379">instagram</tspan><tspan fill="#5c6370">/pabszxx</tspan></text>
+    <text x="234" y="484" font-size="13"><tspan fill="#98c379">linkedin</tspan><tspan fill="#5c6370">/pabelic-jushua</tspan></text>
+    <text x="234" y="508" font-size="13"><tspan fill="#98c379">x</tspan><tspan fill="#5c6370">/@PabelicJushua</tspan></text>
+
+    <line x1="190" y1="540" x2="900" y2="540" stroke="#21252b" stroke-width="2"/>
+
+    <!-- closing line -->
+    <g font-size="11" fill="#5c6370" text-anchor="end">
+      <text x="216" y="572">13</text>
+    </g>
+    <text x="234" y="572" font-size="13"><tspan fill="#61afef">$</tspan><tspan fill="#abb2bf"> echo "thanks for scrolling this far"</tspan></text>
+    <text x="234" y="596" font-size="13" fill="#e5c07b">&gt; commit messages get more honest the further back you go.</text>
+
+    <g font-size="11" fill="#5c6370" text-anchor="end">
+      <text x="216" y="628">14</text>
+    </g>
+  </g>
+
+  <!-- status bar (fixed at true bottom) -->
+  <rect x="0" y="736" width="900" height="24" fill="#61afef"/>
+  <text x="14" y="752" fill="#1a1d23" font-size="11">main</text>
+  <text x="120" y="752" fill="#1a1d23" font-size="11">⚡ 0 problems</text>
+  <text x="800" y="752" fill="#1a1d23" font-size="11" text-anchor="end">UTF-8 · One Dark Pro</text>
+</svg>
