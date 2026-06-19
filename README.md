@@ -1,25 +1,13 @@
 <div align="center">
 
-```bash
-jushua@cagayan-de-oro ~ % whoami
-```
+<img src="./assets/vscode-hero.svg" alt="VS Code style intro" width="100%"/>
 
 # Jushua Pabelic
 ### Junior Full Stack Developer · Cagayan de Oro, PH 🇵🇭
 
+<img src="https://komarev.com/ghpvc/?username=Pabelic1221&style=flat&color=61afef&label=profile+views" alt="Profile views"/>
+
 </div>
-
-<br>
-
-```js
-// bio.js
-const jushua = {
-  role: "Junior Full Stack Developer",
-  location: "Cagayan de Oro, Philippines",
-  philosophy: "Just because something WORKS doesn't mean it can't be IMPROVED.",
-  status: () => "staring at code I wrote 3 months ago, judging it silently",
-};
-```
 
 <br>
 
